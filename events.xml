@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<?xml-model href="events.rnc" type="application/relax-ng-compact-syntax"?>
+<events>
+  <track type="1" name="Molly and Amelia">
+    <event>
+      <title>Mo is born</title>
+      <date type="start">
+        <year>2005</year>
+        <month>03</month>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>2005</year>
+        <month>03</month>
+        <era>AD</era>
+      </date>
+      <description>Molly Wright is born</description>
+      <lat>41.92</lat>
+      <lon>-79.64</lon>
+    </event>
+    <event>
+      <title>AJ is born</title>
+      <date type="start">
+        <year>2009</year>
+        <month>10</month>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>2009</year>
+        <month>10</month>
+        <era>AD</era>
+      </date>
+      <description>Molly's sister, Amelia Wright, is born</description>
+      <lat>42.11</lat>
+      <lon>-80</lon>
+    </event>
+  </track>
+  <track type="2" name="Music"> 
+    <event>
+      <title>Depeche Mode records and releases Songs of Faith and Devotion</title>
+      <date type="start">
+        <year>1992</year>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>1993</year>
+        <era>AD</era>
+      </date>
+      <description>Their best album.</description>
+      <lat>40.41</lat>
+      <lon>-3.70</lon>
+      <media>https://upload.wikimedia.org/wikipedia/en/7/76/Depeche_Mode_-_Songs_of_Faith_and_Devotion.png</media>
+    </event>
+     <event>
+      <title>Talking Heads records and releases Speaking in Tongues</title>
+      <date type="start">
+        <year>1982</year>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>1983</year>
+        <era>AD</era>
+      </date>
+      <description>Known for "Burning Down the House".</description>
+      <lat>40.73</lat>
+      <lon>-73.99</lon>
+      <media>https://upload.wikimedia.org/wikipedia/en/3/3e/Talking_Heads_-_Speaking_in_Tongues.jpg</media>
+    </event>
+    <event>
+      <title>Depeche Mode records and releases Songs of Faith and Devotion</title>
+      <date type="start">
+        <year>1992</year>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>1993</year>
+        <era>AD</era>
+      </date>
+      <description>Their best album.</description>
+      <lat>40.41</lat>
+      <lon>-3.70</lon>
+      <media>https://upload.wikimedia.org/wikipedia/en/7/76/Depeche_Mode_-_Songs_of_Faith_and_Devotion.png</media>
+    </event>
+     <event>
+      <title>Kraftwerk records and releases The Man Machine</title>
+      <date type="start">
+        <year>1977</year>
+        <era>AD</era>
+      </date>
+      <date type="end">
+        <year>1978</year>
+        <era>AD</era>
+      </date>
+      <description>Band known for pioneering electronic music.</description>
+      <lat>51.21</lat>
+      <lon>6.78</lon>
+      <media>https://upload.wikimedia.org/wikipedia/en/7/7f/Kraftwerk_-_The_Man-Machine.png</media>
+    </event>
+  </track>
+</events>
